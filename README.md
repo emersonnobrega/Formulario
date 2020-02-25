@@ -8,4 +8,4 @@
 
 * Objetivo
 
-  * Criar um fomulário e enviar o dados por e-mail usando HTML, CSS e Javascript
+  * Criar um formulário e enviar o dados por e-mail usando HTML, CSS e Javascript
