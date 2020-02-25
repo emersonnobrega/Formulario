@@ -1,4 +1,33 @@
-#area-formulario{
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+fieldset{
+    border: 0;
+    width: 400px;
+    height: 600px;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+input{
+    margin-top: 10px;
+}
+textarea{
+    margin-top: 10px;
+}
+.nome{
     width: 300px;
-    
+}
+.email{
+    width: 300px;
+}
+.btn-submit{
+    font-size: 1.5rem;
+    margin-left: 150px;
+    border: none;
+    background-color: #000000;
+    color: #ffffff;
 }
